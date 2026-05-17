@@ -1,8 +1,8 @@
-# react-minimal-app
+# react-playground-app
 
-Build a simple, minimal app in order to learn and better fix React knowledge.
+Built an app to discover more and grasp better React knowledge.<br />
 Followed courses from YouTube channel **The Net Ninja**, playlist **Full Modern React Tutorial**.
 
 Commands to run the project: <br />
-**npm run start** -> Start the app <br />
-**npx json-server --watch db/db.json --port {number}** -> Start Json Server (to have a form of "persistent" data)
+**npm run start** -> Start React (UI) app <br />
+**npx json-server --watch db/db.json --port** { number } -> Start Json Server (to have a form of "persistent" data)
